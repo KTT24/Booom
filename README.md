@@ -1,2 +1,2 @@
 # Booom
-## The student multi tool
+The student multi tool
